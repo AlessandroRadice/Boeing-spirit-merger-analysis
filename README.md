@@ -2,7 +2,7 @@
 
 **Author:** Alessandro Radice · M.Sc. Economics and Business Law (Finance), Università Cattolica del Sacro Cuore, Milan
 
-**Live page:** [alessandroradice.github.io/boeing-spirit-merger-analysis](https://alessandroradice.github.io/boeing-spirit-merger-analysis/)
+**Live page:** [alessandroradice.github.io/boeing-spirit-merger-analysis](https://alessandroradice.github.io/Boeing-spirit-merger-analysis/)
 
 **30 June 2024. Boeing agrees to buy Spirit AeroSystems for $37.25 a share, paid entirely in Boeing stock, with a collar: the value is fixed only while Boeing's 15-day VWAP stays between $149.00 and $206.94. You advise the Spirit board. What is the offer really worth, who carries Boeing's risk until closing, and should the board ask for different terms?**
 
