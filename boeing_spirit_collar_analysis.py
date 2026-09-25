@@ -602,7 +602,7 @@ PAGE_TEMPLATE = r'''<meta charset="utf-8">
 <div class="wrap">
   <header class="masthead">
     <div>
-      <div class="eyebrow">Radice Capital Partners &middot; M&amp;A structuring &middot; January 2026</div>
+      <div class="eyebrow">M&amp;A structuring &middot; January 2026</div>
       <h1>Boeing–Spirit Merger Analysis<span class="h1sub">Collar valuation and <em>merger arbitrage</em></span></h1>
       <p class="dek">Boeing paid for Spirit AeroSystems in its own shares, with a collar that fixed the value at $37.25 only while Boeing traded between $149.00 and $206.94. The collar is priced here as a package of options on Boeing, using Boeing's real implied volatility surface, and then followed every trading day for 17 months, to the closing on 8 December 2025.</p>
     </div>
